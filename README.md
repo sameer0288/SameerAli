@@ -31,9 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer0288&show_icons=true&locale=en&layout=compact" alt="Sameer Ali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer0288&show_icons=true&theme=tokyonight" alt="Sameer Ali" /></p>
+<p><img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer0288&" alt="Sameer Ali" /></p>
 
-<h1><p><img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"></p></h1>
+
 
